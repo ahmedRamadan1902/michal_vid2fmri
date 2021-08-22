@@ -8,7 +8,7 @@ Full Track: [src/notebook/vid2fmri-fulltrack.ipynb](/src/notebook/vid2fmri-fullt
 
 EDA notebook: [src/notebook/vid2fmri-eda.ipynb](/src/notebook/vid2fmri-eda.ipynb) ([nbviewer](https://nbviewer.jupyter.org/github/michal-nahlik/algonauts-vid2fmri-2021/blob/master/src/notebook/vid2fmri-eda.ipynb))<br>
 
-Report: [doc/report.pdf](/doc/report.pdf)<br>
+Report: [doc/algonauts-vid2fmri-2021.pdf](/doc/algonauts-vid2fmri-2021.pdf)<br>
 
 TODO:
 - fix readme
