@@ -31,7 +31,7 @@ MAX_SEQ_LEN = TARGET_FPS * VID_LEN_SEC  # maximum sequence length
 IMG_SIZE = 224
 
 # environment settings
-PROJECT_FOLDER = "/gdrive/MyDrive/Projects/algonauts/"
+PROJECT_FOLDER = "/gdrive/MyDrive/Projects/algonauts-vid2fmri-2021/"
 DATA_FOLDER = "/home/data/"
 OUTPUT_FOLDER = None
 
