@@ -49,8 +49,8 @@ Report: [doc/algonauts-vid2fmri-2021.pdf](/doc/algonauts-vid2fmri-2021.pdf)<br>
 |A+B ensemble|0.312|
 
 
-
 ## TODO:
-- fix readme
-- clean up code
-- finalize report
+- try differenet pooling methods (pool 2, 3, ... values)
+- check how different pooling methods affect score for different ROIs
+- visualize feature/pooling importance for each ROI
+- write report / article
