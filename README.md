@@ -1,13 +1,16 @@
 # The Algonauts Project 2021
 ## How the Human Brain Makes Sense of a World in Motion
 
-![alt text](doc/challenge_overview.png)
+<p align="center">
+  <img src="doc/challenge_overview.png" />
+  <br><span>(source: http://algonauts.csail.mit.edu/challenge.html)</span>
+</p>
 
 Code for the Algonauts Project 2021 (http://algonauts.csail.mit.edu/). The goal was to predict brain responses recorded while participants viewed short video clips of everyday events. The project had two pars:
 - Mini Track: predict brain responses in specific regions of interest (ROIs) of the brain that are known to play a key role in visual perception (V1, V2, V3, V4, LOC, EBA, FFA, STS, PPA)
 - Full Track: predict brain responses across the whole brain (for the provided set of reliable voxels)
 
-This solutions scored 9th in the Mini Track and 5th in Full Track.
+This solutions ranked 9th in the Mini Track and 5th in Full Track.
 
 ## Description
 Data preprocessing: 
