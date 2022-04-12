@@ -32,7 +32,7 @@ IMG_SIZE = 224
 
 # environment settings
 PROJECT_FOLDER = "/gdrive/MyDrive/Projects/algonauts-vid2fmri-2021/"
-DATA_FOLDER = "/home/data/"
+DATA_FOLDER =  "/gdrive/MyDrive/DataSet/"
 OUTPUT_FOLDER = None
 
 FMRI_FOLDER = None
